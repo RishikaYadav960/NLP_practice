@@ -1,0 +1,3 @@
+Natural Language Processing is amazing.
+I enjoy learning NLP and working with text data.
+This project demonstrates basic NLP techniques.
